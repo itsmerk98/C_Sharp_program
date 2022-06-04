@@ -1,0 +1,1 @@
+D:\nts\ASP mat\c#\26_Delegates\26_Delegates\bin\Debug\26_Delegates.exe.config

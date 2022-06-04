@@ -1,0 +1,11 @@
+D:\AspSamples\c#\type_casting\type_casting\bin\Debug\type_casting.exe.config
+D:\AspSamples\c#\type_casting\type_casting\bin\Debug\type_casting.exe
+D:\AspSamples\c#\type_casting\type_casting\bin\Debug\type_casting.pdb
+D:\AspSamples\c#\type_casting\type_casting\obj\Debug\type_casting.exe
+D:\AspSamples\c#\type_casting\type_casting\obj\Debug\type_casting.pdb
+E:\ASP mat\c#\2 type_casting\type_casting\bin\Debug\type_casting.exe.config
+E:\ASP mat\c#\2 type_casting\type_casting\obj\Debug\type_casting.exe
+E:\ASP mat\c#\2 type_casting\type_casting\obj\Debug\type_casting.pdb
+D:\nts\ASP mat\c#\2 type_casting\type_casting\bin\Debug\type_casting.exe.config
+D:\nts\ASP mat\c#\2 type_casting\type_casting\obj\Debug\type_casting.exe
+D:\nts\ASP mat\c#\2 type_casting\type_casting\obj\Debug\type_casting.pdb

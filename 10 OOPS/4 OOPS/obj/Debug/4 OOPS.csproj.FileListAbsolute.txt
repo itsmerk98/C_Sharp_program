@@ -1,0 +1,24 @@
+D:\AspSamples\c#\4 OOPS\4 OOPS\bin\Debug\4 OOPS.exe.config
+D:\AspSamples\c#\4 OOPS\4 OOPS\bin\Debug\4 OOPS.exe
+D:\AspSamples\c#\4 OOPS\4 OOPS\bin\Debug\4 OOPS.pdb
+D:\AspSamples\c#\4 OOPS\4 OOPS\obj\Debug\4 OOPS.csprojResolveAssemblyReference.cache
+D:\AspSamples\c#\4 OOPS\4 OOPS\obj\Debug\4 OOPS.exe
+D:\AspSamples\c#\4 OOPS\4 OOPS\obj\Debug\4 OOPS.pdb
+D:\nts\ASP mat\c#\10 OOPS\4 OOPS\bin\Debug\4 OOPS.exe.config
+D:\nts\ASP mat\c#\10 OOPS\4 OOPS\obj\Debug\4 OOPS.exe
+D:\nts\ASP mat\c#\10 OOPS\4 OOPS\obj\Debug\4 OOPS.pdb
+D:\ASP.Net_notes\c#\c#\10 OOPS\4 OOPS\bin\Debug\4 OOPS.exe.config
+D:\ASP.Net_notes\c#\c#\10 OOPS\4 OOPS\bin\Debug\4 OOPS.exe
+D:\ASP.Net_notes\c#\c#\10 OOPS\4 OOPS\bin\Debug\4 OOPS.pdb
+D:\ASP.Net_notes\c#\c#\10 OOPS\4 OOPS\obj\Debug\4 OOPS.csproj.AssemblyReference.cache
+D:\ASP.Net_notes\c#\c#\10 OOPS\4 OOPS\obj\Debug\4 OOPS.csproj.SuggestedBindingRedirects.cache
+D:\ASP.Net_notes\c#\c#\10 OOPS\4 OOPS\obj\Debug\4 OOPS.csproj.CoreCompileInputs.cache
+D:\ASP.Net_notes\c#\c#\10 OOPS\4 OOPS\obj\Debug\4 OOPS.exe
+D:\ASP.Net_notes\c#\c#\10 OOPS\4 OOPS\obj\Debug\4 OOPS.pdb
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\10 OOPS\4 OOPS\bin\Debug\4 OOPS.exe.config
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\10 OOPS\4 OOPS\bin\Debug\4 OOPS.exe
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\10 OOPS\4 OOPS\bin\Debug\4 OOPS.pdb
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\10 OOPS\4 OOPS\obj\Debug\4 OOPS.csproj.AssemblyReference.cache
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\10 OOPS\4 OOPS\obj\Debug\4 OOPS.csproj.CoreCompileInputs.cache
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\10 OOPS\4 OOPS\obj\Debug\4 OOPS.exe
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\10 OOPS\4 OOPS\obj\Debug\4 OOPS.pdb

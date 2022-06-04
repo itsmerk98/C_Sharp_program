@@ -1,0 +1,11 @@
+D:\AspSamples\c#\operators\operators\bin\Debug\operators.exe.config
+D:\AspSamples\c#\operators\operators\bin\Debug\operators.exe
+D:\AspSamples\c#\operators\operators\bin\Debug\operators.pdb
+D:\AspSamples\c#\operators\operators\obj\Debug\operators.exe
+D:\AspSamples\c#\operators\operators\obj\Debug\operators.pdb
+D:\nts\ASP mat\c#\4 operators\operators\bin\Debug\operators.exe.config
+D:\nts\ASP mat\c#\4 operators\operators\obj\Debug\operators.exe
+D:\nts\ASP mat\c#\4 operators\operators\obj\Debug\operators.pdb
+D:\nts\ASP mat\c#\4 operators\operators\bin\Debug\operators.exe
+D:\nts\ASP mat\c#\4 operators\operators\bin\Debug\operators.pdb
+D:\nts\ASP mat\c#\4 operators\operators\obj\Debug\operators.csprojResolveAssemblyReference.cache

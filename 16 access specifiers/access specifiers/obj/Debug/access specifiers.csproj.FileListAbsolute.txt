@@ -1,0 +1,3 @@
+D:\AspSamples\c#\access specifiers\access specifiers\bin\Debug\access specifiers.exe.config
+E:\c#\16 access specifiers\access specifiers\bin\Debug\access specifiers.exe.config
+D:\nts\ASP mat\c#\16 access specifiers\access specifiers\bin\Debug\access specifiers.exe.config

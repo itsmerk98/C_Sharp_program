@@ -1,0 +1,9 @@
+D:\AspSamples\c#\constructors\constructors\bin\Debug\constructors.exe.config
+D:\AspSamples\c#\constructors\constructors\obj\Debug\constructors.csprojResolveAssemblyReference.cache
+D:\AspSamples\c#\constructors\constructors\bin\Debug\constructors.exe
+D:\AspSamples\c#\constructors\constructors\bin\Debug\constructors.pdb
+D:\AspSamples\c#\constructors\constructors\obj\Debug\constructors.exe
+D:\AspSamples\c#\constructors\constructors\obj\Debug\constructors.pdb
+D:\nts\ASP mat\c#\12 constructors\constructors\bin\Debug\constructors.exe.config
+D:\nts\ASP mat\c#\12 constructors\constructors\obj\Debug\constructors.exe
+D:\nts\ASP mat\c#\12 constructors\constructors\obj\Debug\constructors.pdb

@@ -1,0 +1,2 @@
+D:\AspSamples\c#\3 Preprocessor directives\3 Preprocessor directives\bin\Debug\3 Preprocessor directives.exe.config
+D:\nts\ASP mat\c#\9 Preprocessor directives\3 Preprocessor directives\bin\Debug\3 Preprocessor directives.exe.config

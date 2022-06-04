@@ -1,0 +1,10 @@
+D:\AspSamples\c#\classMembers\classMembers\bin\Debug\classMembers.exe.config
+D:\nts\ASP mat\c#\11 classMembers\classMembers\bin\Debug\classMembers.exe.config
+D:\ASP.Net_notes\c#\c#\11 classMembers\classMembers\bin\Debug\classMembers.exe.config
+D:\ASP.Net_notes\c#\c#\11 classMembers\classMembers\bin\Debug\classMembers.exe
+D:\ASP.Net_notes\c#\c#\11 classMembers\classMembers\bin\Debug\classMembers.pdb
+D:\ASP.Net_notes\c#\c#\11 classMembers\classMembers\obj\Debug\classMembers.csproj.AssemblyReference.cache
+D:\ASP.Net_notes\c#\c#\11 classMembers\classMembers\obj\Debug\classMembers.csproj.SuggestedBindingRedirects.cache
+D:\ASP.Net_notes\c#\c#\11 classMembers\classMembers\obj\Debug\classMembers.csproj.CoreCompileInputs.cache
+D:\ASP.Net_notes\c#\c#\11 classMembers\classMembers\obj\Debug\classMembers.exe
+D:\ASP.Net_notes\c#\c#\11 classMembers\classMembers\obj\Debug\classMembers.pdb

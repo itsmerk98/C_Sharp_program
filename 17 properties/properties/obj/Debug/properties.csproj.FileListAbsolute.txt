@@ -1,0 +1,28 @@
+D:\AspSamples\c#\properties\properties\bin\Debug\properties.exe.config
+D:\AspSamples\c#\properties\properties\bin\Debug\properties.exe
+D:\AspSamples\c#\properties\properties\bin\Debug\properties.pdb
+D:\AspSamples\c#\properties\properties\obj\Debug\properties.csprojResolveAssemblyReference.cache
+D:\AspSamples\c#\properties\properties\obj\Debug\properties.exe
+D:\AspSamples\c#\properties\properties\obj\Debug\properties.pdb
+E:\c#\17 properties\properties\bin\Debug\properties.exe.config
+E:\c#\17 properties\properties\obj\Debug\properties.exe
+E:\c#\17 properties\properties\obj\Debug\properties.pdb
+E:\c#\17 properties\properties\bin\Debug\properties.exe
+E:\c#\17 properties\properties\bin\Debug\properties.pdb
+E:\c#\17 properties\properties\obj\Debug\properties.csprojResolveAssemblyReference.cache
+E:\ASP mat\c#\17 properties\properties\bin\Debug\properties.exe.config
+E:\ASP mat\c#\17 properties\properties\obj\Debug\properties.exe
+E:\ASP mat\c#\17 properties\properties\obj\Debug\properties.pdb
+D:\nts\ASP mat\c#\17 properties\properties\bin\Debug\properties.exe.config
+D:\nts\ASP mat\c#\17 properties\properties\obj\Debug\properties.exe
+D:\nts\ASP mat\c#\17 properties\properties\obj\Debug\properties.pdb
+D:\nts\ASP mat\c#\17 properties\properties\bin\Debug\properties.exe
+D:\nts\ASP mat\c#\17 properties\properties\bin\Debug\properties.pdb
+D:\nts\ASP mat\c#\17 properties\properties\obj\Debug\properties.csprojResolveAssemblyReference.cache
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\17 properties\properties\bin\Debug\properties.exe.config
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\17 properties\properties\bin\Debug\properties.exe
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\17 properties\properties\bin\Debug\properties.pdb
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\17 properties\properties\obj\Debug\properties.csproj.AssemblyReference.cache
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\17 properties\properties\obj\Debug\properties.csproj.CoreCompileInputs.cache
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\17 properties\properties\obj\Debug\properties.exe
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\17 properties\properties\obj\Debug\properties.pdb

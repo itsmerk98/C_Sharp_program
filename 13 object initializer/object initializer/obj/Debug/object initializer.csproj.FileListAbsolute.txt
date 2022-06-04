@@ -1,0 +1,3 @@
+D:\AspSamples\c#\object initializer\object initializer\bin\Debug\object initializer.exe.config
+E:\c#\13 object initializer\object initializer\bin\Debug\object initializer.exe.config
+D:\nts\ASP mat\c#\13 object initializer\object initializer\bin\Debug\object initializer.exe.config

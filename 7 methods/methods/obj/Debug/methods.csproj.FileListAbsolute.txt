@@ -1,0 +1,13 @@
+D:\AspSamples\c#\methods\methods\bin\Debug\methods.exe.config
+D:\AspSamples\c#\methods\methods\bin\Debug\methods.exe
+D:\AspSamples\c#\methods\methods\bin\Debug\methods.pdb
+D:\AspSamples\c#\methods\methods\obj\Debug\methods.exe
+D:\AspSamples\c#\methods\methods\obj\Debug\methods.pdb
+D:\AspSamples\c#\methods\methods\obj\Debug\methods.csprojResolveAssemblyReference.cache
+D:\nts\ASP mat\c#\7 methods\methods\bin\Debug\methods.exe.config
+D:\nts\ASP mat\c#\7 methods\methods\obj\Debug\methods.exe
+D:\nts\ASP mat\c#\7 methods\methods\obj\Debug\methods.pdb
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\7 methods\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\7 methods\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\7 methods\methods\obj\Debug\methods.exe
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\7 methods\methods\obj\Debug\methods.pdb

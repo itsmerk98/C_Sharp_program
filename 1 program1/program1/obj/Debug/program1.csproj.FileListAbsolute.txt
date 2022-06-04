@@ -1,0 +1,22 @@
+D:\AspSamples\c#\program1\program1\bin\Debug\program1.exe.config
+D:\AspSamples\c#\program1\program1\bin\Debug\program1.exe
+D:\AspSamples\c#\program1\program1\bin\Debug\program1.pdb
+D:\AspSamples\c#\program1\program1\obj\Debug\program1.csprojResolveAssemblyReference.cache
+D:\AspSamples\c#\program1\program1\obj\Debug\program1.exe
+D:\AspSamples\c#\program1\program1\obj\Debug\program1.pdb
+E:\ASP mat\c#\1 program1\program1\bin\Debug\program1.exe.config
+E:\ASP mat\c#\1 program1\program1\obj\Debug\program1.exe
+E:\ASP mat\c#\1 program1\program1\obj\Debug\program1.pdb
+E:\ASP mat\c#\1 program1\program1\bin\Debug\program1.exe
+E:\ASP mat\c#\1 program1\program1\bin\Debug\program1.pdb
+E:\ASP mat\c#\1 program1\program1\obj\Debug\program1.csprojResolveAssemblyReference.cache
+D:\nts\ASP mat\c#\1 program1\program1\bin\Debug\program1.exe.config
+D:\nts\ASP mat\c#\1 program1\program1\obj\Debug\program1.exe
+D:\nts\ASP mat\c#\1 program1\program1\obj\Debug\program1.pdb
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\1 program1\program1\bin\Debug\program1.exe.config
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\1 program1\program1\bin\Debug\program1.exe
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\1 program1\program1\bin\Debug\program1.pdb
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\1 program1\program1\obj\Debug\program1.csproj.AssemblyReference.cache
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\1 program1\program1\obj\Debug\program1.csproj.CoreCompileInputs.cache
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\1 program1\program1\obj\Debug\program1.exe
+D:\final_year\notes\PDF & Document\c#_notes_and_Program\c#\c#\1 program1\program1\obj\Debug\program1.pdb

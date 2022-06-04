@@ -1,0 +1,21 @@
+D:\AspSamples\c#\indexer\indexer\bin\Debug\indexer.exe.config
+D:\AspSamples\c#\indexer\indexer\bin\Debug\indexer.exe
+D:\AspSamples\c#\indexer\indexer\bin\Debug\indexer.pdb
+D:\AspSamples\c#\indexer\indexer\obj\Debug\indexer.csprojResolveAssemblyReference.cache
+D:\AspSamples\c#\indexer\indexer\obj\Debug\indexer.exe
+D:\AspSamples\c#\indexer\indexer\obj\Debug\indexer.pdb
+E:\c#\18 indexer\indexer\bin\Debug\indexer.exe.config
+E:\c#\18 indexer\indexer\obj\Debug\indexer.exe
+E:\c#\18 indexer\indexer\obj\Debug\indexer.pdb
+E:\c#\18 indexer\indexer\bin\Debug\indexer.exe
+E:\c#\18 indexer\indexer\bin\Debug\indexer.pdb
+E:\c#\18 indexer\indexer\obj\Debug\indexer.csprojResolveAssemblyReference.cache
+E:\ASP mat\c#\18 indexer\indexer\bin\Debug\indexer.exe.config
+E:\ASP mat\c#\18 indexer\indexer\obj\Debug\indexer.exe
+E:\ASP mat\c#\18 indexer\indexer\obj\Debug\indexer.pdb
+D:\nts\ASP mat\c#\18 indexer\indexer\bin\Debug\indexer.exe.config
+D:\nts\ASP mat\c#\18 indexer\indexer\obj\Debug\indexer.exe
+D:\nts\ASP mat\c#\18 indexer\indexer\obj\Debug\indexer.pdb
+D:\nts\ASP mat\c#\18 indexer\indexer\bin\Debug\indexer.exe
+D:\nts\ASP mat\c#\18 indexer\indexer\bin\Debug\indexer.pdb
+D:\nts\ASP mat\c#\18 indexer\indexer\obj\Debug\indexer.csprojResolveAssemblyReference.cache

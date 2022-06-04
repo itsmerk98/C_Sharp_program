@@ -1,0 +1,10 @@
+D:\AspSamples\c#\25 structure\25 structure\bin\Debug\25 structure.exe.config
+E:\c#\25 structure\25 structure\bin\Debug\25 structure.exe.config
+E:\c#\25 structure\25 structure\bin\Debug\25 structure.exe
+E:\c#\25 structure\25 structure\bin\Debug\25 structure.pdb
+E:\c#\25 structure\25 structure\obj\Debug\25 structure.csprojResolveAssemblyReference.cache
+E:\c#\25 structure\25 structure\obj\Debug\25 structure.exe
+E:\c#\25 structure\25 structure\obj\Debug\25 structure.pdb
+D:\nts\ASP mat\c#\25 structure\25 structure\bin\Debug\25 structure.exe.config
+D:\nts\ASP mat\c#\25 structure\25 structure\obj\Debug\25 structure.exe
+D:\nts\ASP mat\c#\25 structure\25 structure\obj\Debug\25 structure.pdb

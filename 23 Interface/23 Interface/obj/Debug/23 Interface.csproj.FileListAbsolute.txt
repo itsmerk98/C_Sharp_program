@@ -1,0 +1,15 @@
+D:\AspSamples\c#\23 Interface\23 Interface\bin\Debug\23 Interface.exe.config
+D:\AspSamples\c#\23 Interface\23 Interface\obj\Debug\23 Interface.csprojResolveAssemblyReference.cache
+D:\AspSamples\c#\23 Interface\23 Interface\bin\Debug\23 Interface.exe
+D:\AspSamples\c#\23 Interface\23 Interface\bin\Debug\23 Interface.pdb
+D:\AspSamples\c#\23 Interface\23 Interface\obj\Debug\23 Interface.exe
+D:\AspSamples\c#\23 Interface\23 Interface\obj\Debug\23 Interface.pdb
+E:\c#\23 Interface\23 Interface\bin\Debug\23 Interface.exe.config
+E:\c#\23 Interface\23 Interface\obj\Debug\23 Interface.exe
+E:\c#\23 Interface\23 Interface\obj\Debug\23 Interface.pdb
+E:\c#\23 Interface\23 Interface\bin\Debug\23 Interface.exe
+E:\c#\23 Interface\23 Interface\bin\Debug\23 Interface.pdb
+E:\c#\23 Interface\23 Interface\obj\Debug\23 Interface.csprojResolveAssemblyReference.cache
+D:\nts\ASP mat\c#\23 Interface\23 Interface\bin\Debug\23 Interface.exe.config
+D:\nts\ASP mat\c#\23 Interface\23 Interface\obj\Debug\23 Interface.exe
+D:\nts\ASP mat\c#\23 Interface\23 Interface\obj\Debug\23 Interface.pdb

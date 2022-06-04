@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01f5f19f-ba6e-4fc8-a070-107559fb06c4": {
+      "ProjectGuid": "01f5f19f-ba6e-4fc8-a070-107559fb06c4",
+      "DisplayName": "object initializer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

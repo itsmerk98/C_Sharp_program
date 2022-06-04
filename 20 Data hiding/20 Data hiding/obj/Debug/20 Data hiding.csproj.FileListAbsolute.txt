@@ -1,0 +1,10 @@
+D:\AspSamples\c#\20 Data hiding\20 Data hiding\bin\Debug\20 Data hiding.exe.config
+E:\c#\20 Data hiding\20 Data hiding\bin\Debug\20 Data hiding.exe.config
+E:\c#\20 Data hiding\20 Data hiding\bin\Debug\20 Data hiding.exe
+E:\c#\20 Data hiding\20 Data hiding\bin\Debug\20 Data hiding.pdb
+E:\c#\20 Data hiding\20 Data hiding\obj\Debug\20 Data hiding.csprojResolveAssemblyReference.cache
+E:\c#\20 Data hiding\20 Data hiding\obj\Debug\20 Data hiding.exe
+E:\c#\20 Data hiding\20 Data hiding\obj\Debug\20 Data hiding.pdb
+D:\nts\ASP mat\c#\20 Data hiding\20 Data hiding\bin\Debug\20 Data hiding.exe.config
+D:\nts\ASP mat\c#\20 Data hiding\20 Data hiding\obj\Debug\20 Data hiding.exe
+D:\nts\ASP mat\c#\20 Data hiding\20 Data hiding\obj\Debug\20 Data hiding.pdb

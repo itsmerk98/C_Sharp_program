@@ -1,0 +1,12 @@
+D:\AspSamples\c#\24 sealed\24 sealed\bin\Debug\24 sealed.exe.config
+D:\AspSamples\c#\24 sealed\24 sealed\bin\Debug\24 sealed.exe
+D:\AspSamples\c#\24 sealed\24 sealed\bin\Debug\24 sealed.pdb
+D:\AspSamples\c#\24 sealed\24 sealed\obj\Debug\24 sealed.csprojResolveAssemblyReference.cache
+D:\AspSamples\c#\24 sealed\24 sealed\obj\Debug\24 sealed.exe
+D:\AspSamples\c#\24 sealed\24 sealed\obj\Debug\24 sealed.pdb
+E:\c#\24 sealed\24 sealed\bin\Debug\24 sealed.exe.config
+E:\c#\24 sealed\24 sealed\obj\Debug\24 sealed.exe
+E:\c#\24 sealed\24 sealed\obj\Debug\24 sealed.pdb
+D:\nts\ASP mat\c#\24 sealed\24 sealed\bin\Debug\24 sealed.exe.config
+D:\nts\ASP mat\c#\24 sealed\24 sealed\obj\Debug\24 sealed.exe
+D:\nts\ASP mat\c#\24 sealed\24 sealed\obj\Debug\24 sealed.pdb
